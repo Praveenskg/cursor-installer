@@ -26,7 +26,7 @@ curl -LO https://raw.githubusercontent.com/Praveenskg/cursor-installer/main/inst
 chmod +x install-update-cursor.sh
 ```
 
-3. **Execute the updater**:
+3. **Execute the Installer**:
 
 ```bash
 ./install-update-cursor.sh
